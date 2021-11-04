@@ -37,6 +37,7 @@ a:active {
 	border: 7px solid #fff;
 	border-radius: 5px;
     cursor: pointer;
+    font-family:verdana;
 }
 
 #world1 {
@@ -44,6 +45,7 @@ a:active {
 	width: 525px;
 	padding: 10px 30px;
     cursor: pointer;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 #clouds .cloud {
