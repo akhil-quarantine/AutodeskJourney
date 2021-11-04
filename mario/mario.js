@@ -1,10 +1,3 @@
-/**
- * Super Mairo Course Homework Navigation
- * Version 0.1
- * By Yizhao He
- * At 9/6/2015
- * Update at 11/8/2015
- */
 var marios = [
                 'url(mario/mario.png) 0 -178px',
                 'url(mario/mario.png) -65px -178px',
