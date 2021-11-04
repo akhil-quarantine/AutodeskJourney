@@ -39,6 +39,13 @@ a:active {
     cursor: pointer;
 }
 
+#world1 {
+	font-size: 20px;
+	width: 525px;
+	padding: 10px 30px;
+    cursor: pointer;
+}
+
 #clouds .cloud {
 /*    display: inline-block;*/
     position: absolute;
