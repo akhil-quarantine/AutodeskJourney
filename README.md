@@ -1,9 +1,7 @@
-# Mario Homepage
+# Akhil' Homepage
 
 Just something with fun, enjoyed the time with Mario.
 
-Live Demo at: [Mario Homepage](http://1mhz.me)
+Live Demo at: [Akhil's Homepage](https://akhil-quarantine.github.io/AutodeskJourney/)
 
-## Screenshot
 
-![screenshot](screenshot.png)
