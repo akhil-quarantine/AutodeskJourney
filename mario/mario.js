@@ -227,7 +227,7 @@ Mario.prototype.jump = function () {
 
                 me.animateMushroom(true);
                 me.soundMushroom.play();
-                me.showPrompt('Redirecting to <br/> Homework #' + id + ' <br/>...');
+                me.showPrompt('Redirecting ...');
                 me.redirect($('a', $(this)).attr('href'));
             }
         });
